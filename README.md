@@ -2,7 +2,7 @@
 Pivot table Analysis Done on Work_Order file With the help of Excel.
 <h2>We have performed following tasks to complete our Analysis.</h2>
 <ol>
-  <li><b>Task 1:</b>
+  <li><b>Task :</b>
   <p>Create a new table that contains the valid number of technicians allowed for each service type, as shown below</p>
   <table>
     <tr>
@@ -36,15 +36,15 @@ Pivot table Analysis Done on Work_Order file With the help of Excel.
   </table>
   
   </li>
-  <li><b>Task 2:</b>
+  <li><b>Task :</b>
     <p>	Using the table created in the previous activity, create named ranges for each service type such that each range contains the respective technician counts</p>
   </li>
 
-  <li><b>Task 3:</b>
+  <li><b>Task :</b>
   <p>Create a data validation over the existing “Techs” column such that the value in each row is as per the structure defined in the table created in activity 1.</p>
   </li>
 
-  <li><b>Task 4:</b>
+  <li><b>Task :</b>
     <p>Create a pivot table that contains the total revenue and count of services done across all service categories for various technician counts.</p>
   </li>
 </ol>
